@@ -87,7 +87,8 @@ I also added AI demand forecasting. My AI will check hostel menu, school strengt
 - QR code is generated for every order, hostel scans to see farmer price.
 - AI model uses past 3 months hostel orders + festival calendar to predict.
 
-  ![BulkChain Flowchart](flowchart.png)
+  <img width="1920" height="1280" alt="WhatsApp Image 2026-11-24 at 5 59 02 PM" src="https://github.com/user-attachments/assets/0a0f65c3-2b05-4c13-8e49-44576eb77dd6" />
+
 
 ## Feasibility and Viability
 
